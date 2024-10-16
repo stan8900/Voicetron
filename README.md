@@ -60,3 +60,7 @@ Once the environment is set up and dependencies are installed, you can run the s
 python3 voice_cloning.py
 
 ```
+
+### 5. Generate speech
+By default, the script will generate a .wav file using the pre-trained models based on the text you provide. The output file will be saved as output_voice.wav.
+
