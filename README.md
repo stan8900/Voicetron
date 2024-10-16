@@ -36,6 +36,22 @@ On Windows:
 ```
 python -m venv venv
 venv\Scripts\activate
+```
+### 3. Install dependencies
+Install the necessary Python packages using pip:
 
 ```
+pip install torch
+pip install scipy
+pip install soundfile
+
+```
+For GPU (CUDA) support, install the appropriate version of torch with CUDA:
+
+```
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu118
+```
+
+Make sure you replace cu118 with the appropriate version if you are using a different CUDA version.
+
 
