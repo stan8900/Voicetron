@@ -54,4 +54,9 @@ pip3 install torch torchvision torchaudio --extra-index-url https://download.pyt
 
 Make sure you replace cu118 with the appropriate version if you are using a different CUDA version.
 
+### 4. Running the script
+Once the environment is set up and dependencies are installed, you can run the script to synthesize speech. Make sure your virtual environment is activated.
+```
+python3 voice_cloning.py
 
+```
