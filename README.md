@@ -20,3 +20,22 @@ This project demonstrates real-time voice cloning using pre-trained models like 
 git clone https://github.com/stan8900/Voicetron.git
 cd https://github.com/stan8900/Voicetron.git
 ```
+### 2. Create and activate a virtual environment
+It's recommended to create a virtual environment for managing project dependencies. You can use venv for this.
+
+
+On macOS/Linux:
+
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+
+On Windows:
+
+```
+python -m venv venv
+venv\Scripts\activate
+
+```
+
