@@ -1,4 +1,4 @@
-# Voice Cloning with Tacotron 2 and WaveGlow
+# Voicetron with Tacotron 2 and WaveGlow
 
 This project demonstrates real-time voice cloning using pre-trained models like **Tacotron 2** and **WaveGlow**. You can synthesize speech from text and fine-tune the models for specific voices, accents, emotions, and more.
 
